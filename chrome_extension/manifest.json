@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Defence AI Extension",
+  "version": "1.0",
+  "description": "Scan the active page URL with the Phishing Defence AI backend.",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "host_permissions": ["http://localhost:5000/*", "https://localhost:5000/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
+}
