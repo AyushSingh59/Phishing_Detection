@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔒 AI-Based Phishing Website Detection System
 
 A comprehensive Flask-based web application that uses machine learning and advanced security checks to detect phishing websites. 
@@ -259,3 +260,6 @@ For issues or feature requests, please refer to your course materials or instruc
 ---
 
 **Happy Phishing Hunting! 🔒**
+=======
+# Phishing_Detection
+>>>>>>> 86db94e24def193481be4ecd20e4bc231e68ee0d
